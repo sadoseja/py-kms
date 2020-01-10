@@ -32,7 +32,7 @@ _py-kms_ is a port of node-kms created by [cyrozap](http://forums.mydigitallife.
     - ```sudo apt-get update```
     - for python3
     - ```sudo apt-get install python3-tk python3-pip```
-    - ```sudo pip3 install tzlocal pysqlite3```
+    - ```sudo pip3 install --upgrade setuptools tzlocal pysqlite3```
     - or for python2
     - ```sudo apt-get install python-tk python-pip```
     - ```sudo pip install tzlocal pysqlite```
